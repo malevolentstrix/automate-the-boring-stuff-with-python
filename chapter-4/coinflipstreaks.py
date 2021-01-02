@@ -1,3 +1,5 @@
+# PRACTICE PROBLEM OF CHAPTER 4 "Coin flip streak"
+# BY JITHIN JOHN
 import random
 numberOfStreaks = 0
 samplespace = []
