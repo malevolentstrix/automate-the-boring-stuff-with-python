@@ -13,7 +13,7 @@ This was given as a part of the introduction-syllabus to to Freshers at [Amrita 
 
 Every chapter folder contains what it took me to complete the projects of that chapter, external references I used and the blockers I faced during the completion of the book.
 
-## Importance of this book in everyday life :nut_and_bolt :
+## Importance of this book in everyday life :nut_and_bolt:
 
 It teaches how to use Python to write programs that do in minutes what would take you hours to do by hand with no need of prior programming experience.
 
